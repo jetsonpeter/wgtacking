@@ -1,0 +1,2 @@
+# wgtacking
+auto tracking ships
